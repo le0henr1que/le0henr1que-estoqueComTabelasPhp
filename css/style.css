@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body
+{
+    background-image: url(img/fundo.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+
+}
